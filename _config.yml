@@ -1,6 +1,6 @@
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
+title: 'CasoPlanet'
+description: 'light up your inspiration'
 keywords: 'your web keywords, another keywords'
 url: 'https://abc.github.io' # your host
 
@@ -14,12 +14,12 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'your awesome name'
+name: 'Caso'
 NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+webtitle: 'CasoPlanet'
+bio: 'CasoPlanet'
 about: true
-aboutyou: 'your introduction'
+aboutyou: 'a layman of SE'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
