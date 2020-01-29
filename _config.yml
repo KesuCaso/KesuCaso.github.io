@@ -1,8 +1,14 @@
 # Site settings 配置站点
 title: 'CasoPlanet'
+<<<<<<< HEAD
 description: 'light up inspiration'
 keywords: 'CasoPlanet'
 url: 'https://KesuCaso.github.io' # your host
+=======
+description: 'light up your inspiration'
+keywords: 'your web keywords, another keywords'
+url: 'https://abc.github.io' # your host
+>>>>>>> 7cd68ffec6f08dae0e8d76d97d4657e6c8b6b755
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
@@ -15,11 +21,19 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 # 博主
 author: true
 name: 'Caso'
+<<<<<<< HEAD
 NickName: 'Caso'
 webtitle: 'CasoPlanet'
 bio: 'CasoPlanet'
 about: true
 aboutyou: 'A layman of SE.'
+=======
+NickName: 'your awesome nickname'
+webtitle: 'CasoPlanet'
+bio: 'CasoPlanet'
+about: true
+aboutyou: 'a layman of SE'
+>>>>>>> 7cd68ffec6f08dae0e8d76d97d4657e6c8b6b755
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
