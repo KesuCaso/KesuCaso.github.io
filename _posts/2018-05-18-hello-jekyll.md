@@ -1,18 +1,10 @@
 ---
 layout: post
 title: 'Hello Jekyll'
-<<<<<<< HEAD
 date: 2018-05-18
 author: Caso
 color: rgb(97,125,87)
 cover: '../assets/hello.jpg'
-=======
-date: 2017-04-18
-author: Caso
-color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
->>>>>>> 51fc94a8f3dba25d56c05954152be681a788c4be
-tags: jekyll
 ---
 
 > Transform your plain text into static websites and blogs.
