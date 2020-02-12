@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Hello Jekyll'
-date: 2017-04-18
-author: Jekyll
-color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+date: 2018-05-18
+author: Caso
+color: rgb(97,125,87)
+cover: '../assets/hello.jpg'
 tags: jekyll
 ---
 
